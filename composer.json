@@ -1,0 +1,12 @@
+{
+
+    "autoload": {
+        "psr-4": {"Ann\\": "src/",
+            "Ann\\vue\\": "src/vue"
+        }
+    }
+,
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
